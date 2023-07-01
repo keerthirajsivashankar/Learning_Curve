@@ -1,0 +1,22 @@
+
+
+.box {
+  margin: 100px auto;
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  animation: 10s abc infinite;
+  animation-delay: 2s;
+}
+
+@keyframes abc {
+  20% {
+    margin-left: 200px;
+    background-color: red;
+  }
+  50% {
+    margin-left: 500px;
+    background-color: blue;
+    transform: rotate(30deg);
+  }
+}
