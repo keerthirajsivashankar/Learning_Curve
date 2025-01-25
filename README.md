@@ -1,4 +1,4 @@
-# 🌟 New Project
+# 🌟 Learning Curve
 
 Welcome to my **New Project**! 🎉  
 This project demonstrates my ability to build and design web applications using HTML, CSS, and JavaScript. The project includes interactive features like dynamic page loading, styling, and scripts for enhanced user experience.
